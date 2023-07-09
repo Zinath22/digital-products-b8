@@ -72,7 +72,7 @@
     }
     .about-title{
         text-align: center;
-        padding top: 20px;
+        padding-top: 20px;
         font-size: 55px;
         color: white;
         background-image: url('./image/background\ .png'),
@@ -83,7 +83,7 @@
         
     }
     .about-info{
-        padding bottom: 20px;
+        padding-bottom: 20px;
 
     }
    .box{
@@ -138,5 +138,4 @@
     text-align: center;
     padding: 15px;
     /* color: white; */
-    margin: ;
    }
